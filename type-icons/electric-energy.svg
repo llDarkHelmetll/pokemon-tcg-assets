@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 144 144">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ffd400;
+      }
+
+      .st1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Electric">
+    <g>
+      <circle class="st0" cx="72" cy="72" r="72"/>
+      <polygon class="st1" points="84.4 8.8 29 88.1 79.4 71.8 62 135 114.5 44.6 68.3 58 84.4 8.8"/>
+    </g>
+  </g>
+</svg>
